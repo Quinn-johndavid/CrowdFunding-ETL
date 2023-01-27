@@ -1,3 +1,5 @@
+
+---I know the below line for sure works with SSMS 
 --create DataBase crowdfunding_db;
 
 --drop table Category cascade;
